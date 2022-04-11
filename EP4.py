@@ -3,6 +3,7 @@
 num = 1
 sum = 0
 print("ถ้าไม่มีใครเข้าไปในลิฟต์ให้น้ำหนักเป็น 0")
+
 for num in range(1,7):
     N = float(input(f"น้ำหนักของคนที่: {num}  >>"))
     sum += N
