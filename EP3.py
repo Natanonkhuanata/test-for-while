@@ -1,4 +1,5 @@
 # เเบบฝึกหัดเรื่อง for-while
+# เเบบฝึกที่ 5-2
 
 number = int(input("Your number you like >>>"))
 max = 0
@@ -13,6 +14,7 @@ while  w != 0:
     
     number = number // 10
     sum += w
+
 
 
 print("ตัวเลขที่มีค่ามากที่สุด :" , max)
